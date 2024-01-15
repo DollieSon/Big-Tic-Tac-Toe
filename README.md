@@ -1,3 +1,6 @@
+### This is Just Me Modifying React's Tic-Tac-Toe Tutorial
+### There's a bug where setTile gets called twice, idk why but it doesnt affect anything
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
