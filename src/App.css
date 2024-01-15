@@ -36,3 +36,15 @@
     transform: rotate(360deg);
   }
 }
+
+.Square{
+  height: 100px;
+  width: 100px;
+}
+
+.BigTacRow{
+  display: flex;
+}
+.TicTacGame{
+    margin: 10px;
+}
